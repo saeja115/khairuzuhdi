@@ -1,5 +1,5 @@
 /* ==========================================
-   KHAIRI ZUHDI PORTFOLIO — script.js
+   KHOERU ZUHDI PORTFOLIO — script.js
    ========================================== */
 
 // ---- CUSTOM CURSOR ----
